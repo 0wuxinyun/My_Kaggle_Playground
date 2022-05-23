@@ -10,3 +10,10 @@ Notes :
 - Kaggle Course - Intro to Machine Learning
 - Kaggle Course - Intermediate Machine Learning
 - Kaggle Course -Pandas
+
+## Stage 2: Some DA project 
+Notebooks :
+- Py.Notebook Customer Personality Analysis
+
+Notebooks :
+- Apriori Algorithm 
