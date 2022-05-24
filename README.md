@@ -14,8 +14,13 @@ Notes :
 ## Stage 2: Some DA project 
 Notebooks :
 - Py.Notebook Customer Personality Analysis
-- Py.MNIST Digit Recognizer Notebook
 
 Notes :
 - Apriori Algorithm 
+
+## Stage 3: Some AI project 
+Notebooks :
+- Py.MNIST Digit Recognizer Notebook
+
+Notes :
 - Pytorch Basic 
