@@ -24,3 +24,6 @@ Notebooks :
 
 Notes :
 - Pytorch Basic 
+
+## Stage 4: Others
+- Python Web Scraping on NetEase Music & Analysis 
